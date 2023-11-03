@@ -45,15 +45,6 @@
   </ul>
 </details>
 
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-
-
-- **[Ruby]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
